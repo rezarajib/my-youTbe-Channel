@@ -28,3 +28,22 @@ nav{
     /* top: 0;
     z-index: 10; */
 }
+
+.nav-right img{
+    width: 25px;
+    margin-right: 25px;
+}
+
+.nav-right .user-icon{
+    width: 35px;
+    border-radius: 50px;
+    margin-right: 0;
+}
+.nav-left .menu-icon{
+    width: 26px;
+    margin-right: 25px;
+}
+
+.nav-left .logo{
+    width: 150px;
+}
